@@ -12,8 +12,8 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 # Global variables
 DEBUG_MODE = False
-VERSION = "1.0.1 - Grape, stable"
-BUILD_INFO = "Released on March 3, 2024"
+VERSION = "1.1 - Cherry, stable"
+BUILD_INFO = "Released on March 5, 2024"
 GAMES_FOLDER = "games"
 FILES_FOLDER = "files"
 
